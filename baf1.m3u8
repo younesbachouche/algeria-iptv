@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:0,get_channel_url2.php?s=85
+#EXTVLCOPT:http-user-agent=BEIN SPORTS MixFlix
+https://akomov.com/iptv/mixflixpro/get_channel_url2.php?s=85
